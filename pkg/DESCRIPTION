@@ -1,0 +1,18 @@
+Package: PStat3
+Maintainer: Bill Engels <wrengels@wisc.edu>
+Type: Package
+Title: Some statistical programs from the old Stat
+Version: 0.0.1
+Date: 2019-09-02
+Author: Bill Engels <wrengels@wisc.edu>
+Description: Permutation statistic
+Depends:
+    R (>= 3.1.1)
+Suggests:
+    plyr,
+    ggplot2,
+    reshape2,
+NeedsCompilation: yes
+License: GPL
+LazyData: true
+RoxygenNote: 6.1.1
